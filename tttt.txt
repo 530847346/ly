@@ -13,3 +13,4 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+冲突
